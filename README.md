@@ -13,7 +13,7 @@ mongod
 ```
 mongo
 ```
-* Then go to  in your web browser:
+* Then go to your web browser and type:
 ```
 localhost:8080/pokedex
 ```

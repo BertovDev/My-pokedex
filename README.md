@@ -6,7 +6,7 @@ How to Run it
 ```
 node index.js
 ```
-To start the mongo database
+* To start the mongo database , type this on any bash:
 ```
 mongod
 ```
@@ -14,4 +14,6 @@ mongod
 mongo
 ```
 * Then go to  in your web browser:
+```
 localhost:8080/pokedex
+```

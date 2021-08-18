@@ -6,7 +6,7 @@ How to Run it
 ```
 node index.js
 ```
-* To start the mongo database , type this on any bash:
+* To start the mongo database , type this on two different bash:
 ```
 mongod
 ```
